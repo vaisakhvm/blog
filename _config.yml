@@ -1,0 +1,47 @@
+# Site info 
+title:              "Vaisakh VM"
+description:        "Vaisakh VM's blogs and musings"
+author_name:        "Vaisakh VM"
+logo_url:           https://avatars.githubusercontent.com/u/822142?v=4 # Get it from GitHub API: https://api.github.com/users/<username>
+
+ # Site settings
+url:                https://vaisakhvm.in # main url
+baseurl:            ""
+permalink:          /:title # Post permalink
+timezone:           Asia/Kolkata # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+mathjax:            true  # enables support for mathjax - set to 'false' to disable
+social_share_previews: true
+
+# Site build
+highlighter:        rouge
+markdown:           kramdown
+kramdown:
+    input:          GFM
+sass:
+    style:          :compressed
+
+# Other params
+include:            [ "robots.txt" ]
+theme: the-minima
+exclude:            [ "README.md", "CNAME", "vendor", "Gemfile", "Rakefile", ".gitignore", ".DS_Store" ]
+plugins:
+- jekyll-sitemap
+
+
+
+defaults:
+  -
+    scope:
+      path:         ""
+    values:
+      layout:       "null"
+  -
+    scope:
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      type:         "posts"
+    values:
+      layout:       "post"
