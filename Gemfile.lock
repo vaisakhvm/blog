@@ -1,6 +1,6 @@
 GIT
-  remote: git@github.com:vaisakhvm/the-minima.git
-  revision: 5c12e59b886b42af83eb371b2e48df6eb92221a2
+  remote: https://github.com/vaisakhvm/the-minima.git
+  revision: 6f3643ed5a6e21a6df66f8cfd95958a4c9276208
   branch: main
   specs:
     the-minima (0.1.0)
