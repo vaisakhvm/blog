@@ -7,7 +7,7 @@ logo_url:           https://avatars.githubusercontent.com/u/822142?v=4 # Get it 
  # Site settings
 url:                https://vaisakhvm.in # main url
 baseurl:            ""
-permalink:          /:title # Post permalink
+permalink:          /:title.html # Post permalink
 timezone:           Asia/Kolkata # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
 social_share_previews: true
