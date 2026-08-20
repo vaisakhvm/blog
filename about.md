@@ -13,4 +13,7 @@ In 2018, I co-founded [Vizpalm](https://www.linkedin.com/company/vizpalm). In ea
 
 I’m big on cricket, having played at the first division level and been part of the under-19 probables in Calicut. I still play occasionally. 🏏
 
+
 You can find me on [LinkedIn](https://linkedin.in/in/vaisakhvm), [Github](https://github.com/vaisakhvm), and [Twitter](https://twitter.com/vaisakhvm)—feel free to connect!
+
+The subjects will change. The underlying curiosity probably won’t.
